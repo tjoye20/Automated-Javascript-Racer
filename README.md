@@ -1,4 +1,4 @@
-# Javascript Racer 3 Sane Javascript
+# JavaScript Racer 3 Sane JavaScript
 
 ## Learning Competencies
 
@@ -94,9 +94,8 @@ After you're done, make sure you get feedback from staff on the code.  This is
 one of the more important challenges and understanding how object-oriented
 JavaScript works is a key skill.
 
-## Optimize Your Learning
-
-_No comment_
+<!-- ## Optimize Your Learning
+ -->
 
 ## Resources
 
