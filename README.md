@@ -94,8 +94,7 @@ After you're done, make sure you get feedback from staff on the code.  This is
 one of the more important challenges and understanding how object-oriented
 JavaScript works is a key skill.
 
-<!-- ## Optimize Your Learning
- -->
+<!-- ## Optimize Your Learning -->
 
 ## Resources
 
