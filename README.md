@@ -1,5 +1,5 @@
-# Automated JavaScript Racer Game 
-JavaScript racer game that's automatically plays itself when the user presses any key on there keyboard.
+# Automated JavaScript Racer Game
+JavaScript racer game that automatically plays itself when the user presses any key on there keyboard.
 
 ### Project Goal
 
